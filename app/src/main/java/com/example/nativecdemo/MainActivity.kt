@@ -8,6 +8,7 @@ import com.example.nativecdemo.databinding.ActivityMainBinding
 /**
  * CMakeLists.txt
  *  test modified branch1 branch 2
+ *  add something in branch2
  */
 class MainActivity : AppCompatActivity() {
 
