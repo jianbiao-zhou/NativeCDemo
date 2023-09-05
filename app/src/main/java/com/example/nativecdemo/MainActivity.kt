@@ -7,7 +7,7 @@ import com.example.nativecdemo.databinding.ActivityMainBinding
 
 /**
  * CMakeLists.txt
- *
+ *  test
  */
 class MainActivity : AppCompatActivity() {
 
