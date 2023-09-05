@@ -5,6 +5,10 @@ import android.os.Bundle
 import android.widget.TextView
 import com.example.nativecdemo.databinding.ActivityMainBinding
 
+/**
+ * CMakeLists.txt
+ *
+ */
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
